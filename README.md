@@ -2,7 +2,7 @@
 
 Welcome to Career Lab! We’ve compiled a list of job search resources that have personally helped a number of us in our own job search. They range from courses and workshops to tools and study tips. Good luck! We’re rooting for you!
 
-## Courses
+## 🎓 Courses
 
 1. [**Grokking the Behavioral Interview**](https://www.educative.io/courses/grokking-the-behavioral-interview)
 
@@ -15,7 +15,7 @@ Welcome to Career Lab! We’ve compiled a list of job search resources that have
 1. [**Interviews School**](https://interviews.school/)
    A useful guide for anyone who wants to prepare for interviews at companies like Google, Apple, or Facebook.
 
-## Books
+## 📚 Books
 
 1. [**Create the Perfect LinkedIn Profile (A 6-step guide)**](https://business.linkedin.com/content/dam/me/business/en-us/talent-solutions/cx/2019/PDF/LTS_Profile_01242019.pdf)
 
@@ -27,7 +27,7 @@ Welcome to Career Lab! We’ve compiled a list of job search resources that have
 1. [**Cracking the Coding Interview**](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
    An in-depth book that gives tips and strategies on how to handle behavioral and technical interviews with 189 programming questions and solutions.
 
-## Videos and Podcasts
+## ⏯️ Videos and Podcasts
 
 1. **[Personal Development: Lyra on Bringing Your Best Self to Interviews.](https://www.youtube.com/watch?v=u1VivMWOk3Y)**
    A great workshop of The Collab Lab that teaches you how to prepare for an interview and how to deal with the stress that you might feel before having an interview.
@@ -41,7 +41,7 @@ Welcome to Career Lab! We’ve compiled a list of job search resources that have
 
 1. [**Standing Out as A Non-Traditional Applicant**](https://egghead.io/lessons/egghead-standing-out-as-a-non-traditional-applicant)
 
-## Resume Writing Tips
+## 📝 Resume Writing Tips
 
 1. Use resume builders:
    1. [**Flow CV**](https://flowcv.io/)
@@ -56,13 +56,12 @@ Welcome to Career Lab! We’ve compiled a list of job search resources that have
     resume as a compelling story and why it’s important to do so.
 1. [**Ten Data-Driven Ways to Use Your Developer Resume to Get Interviews**](https://relocate.me/blog/resume-interview-tips/10-data-driven-ways-to-use-your-developer-resume-to-get-interviews/)
    A good article on how to write a resume that stands out and raises your chances of getting an interview.
-1. [**What to include in your resume**](https://www.notion.so/6943081711f44e3383e1c5d4aec9e551).
-<!-- TODO: Ask if this TCL Notion link should be made public -->
+1. [**What to include in your resume**](https://www.notion.so/6943081711f44e3383e1c5d4aec9e551). <!-- TODO: Find out if this TCL Notion link should be made public -->
 1. [**Get a Job Using LinkedIn**](https://www.youtube.com/playlist?list=PL54X5yR8qizsMpvTCqUIEFMeEp-chvcxk)
 
    A YouTube playlist with resumes and LinkedIn tips from recruiters and hiring managers.
 
-## Prepare for Interviews
+## 📋 Prepare for Interviews
 
 1.  Use [**Pramp**](https://www.pramp.com/#/) to practice mock interviews.
 1.  [**30SecondsOfInterviews**](https://30secondsofinterviews.org/)
@@ -76,7 +75,7 @@ Welcome to Career Lab! We’ve compiled a list of job search resources that have
 
     Modern behavioral question video for interviews that covers nuances of talking about yourself, weaknesses and strengths, conflict at work, and talking accomplishments and ambitions.
 
-## What to Ask During an Interview
+## ❓ What to Ask During an Interview
 
 1. [**The perfect questions to ask in your job interview**](https://www.keyvalues.com/culture-queries)
 
@@ -93,7 +92,7 @@ Welcome to Career Lab! We’ve compiled a list of job search resources that have
 1. [**How to choose your future employer**](https://dev.to/kethmars/how-to-choose-your-future-employer-questions-to-ask-during-your-next-interview-4hof) by Keth Mars
    Questions to ask during your next interview
 
-## Useful Articles
+## 📰 Useful Articles
 
 1. [**Automate Your Job Search**](https://www.twilio.com/blog/automate-your-job-search-with-twitter-and-twilio-programmable-sms).
    An article written by Shajia Abidi, a Collabie at TCL. She built a website using Twitter API to keep track of jobs that people share on Twitter.
@@ -105,15 +104,16 @@ Welcome to Career Lab! We’ve compiled a list of job search resources that have
    advice on how to make the most out of going to job fairs.
 1. [**What are technical skills?**](https://www.codecademy.com/resources/blog/what-are-technical-skills/)
    An article gives examples of technical skills and explains how to showcase them on your resume.
+1. [**10 Steps to Solving a Programming Problem**](https://codeburst.io/10-steps-to-solving-a-programming-problem-8a32d1e96d74)
 
-## Tools
+## 🧰 Tools
 
 1. [**Hired**](https://hired.com/)
    Submit your profile and get matched with a job you love.
 1. [**Huntr**](https://huntr.co)
    Organize your job search activities easily. Free to track 40 jobs or fewer.
 
-## Coding Challenge Websites
+## 💻 Coding Challenge Websites
 
 Our favorite places for improving our problem-solving skills
 
@@ -125,7 +125,7 @@ Our favorite places for improving our problem-solving skills
 1. [**Interview Cake**](https://www.interviewcake.com/)
 1. [**FullStack.Cafe**](https://www.fullstack.cafe/)
 
-## Study Tips
+## 🎒 Study Tips
 
 1. [**LeetCode Solution Explanations (JavaScript)**](https://youtube.com/playlist?list=PLY5pAT_51eGyo4ixvdZgzY57N0_R1QMtb)
 1. [**Complete Introduction to the 30 Most Essential Data Structures & Algorithms**](https://dev.to/iuliagroza/complete-introduction-to-the-30-most-essential-data-structures-algorithms-43kd)
@@ -143,7 +143,7 @@ Our favorite places for improving our problem-solving skills
 1. [**BaseCS**](https://www.codenewbie.org/basecs) ([BaseCS on Medium](https://medium.com/basecs))
    A podcast that focuses on explaining computer science concepts in a simple way.
 
-## Find a Job
+## 🔍 Find a Job
 
 Our go-to job search engines and job boards
 
@@ -156,7 +156,7 @@ Our go-to job search engines and job boards
 
 ...[**And 99 other websites**](https://docs.google.com/spreadsheets/u/2/d/1JfNAbUX_lN9K3MCNHO15GJtJ5qpk7H9Cl3xTBwv2FR8/htmlview)
 
-## Websites That Specialize in Remote Hiring
+## 🌎 Websites That Specialize in Remote Hiring
 
 1. **Twitter and LinkedIn**:
    These two websites are probably the most powerful for job searching and networking. Make sure to watch the video series “[Get a job using LinkedIn](https://www.youtube.com/playlist?list=PL54X5yR8qizsMpvTCqUIEFMeEp-chvcxk)” to ensure you use them well.
